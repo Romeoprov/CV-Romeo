@@ -1,4 +1,4 @@
-# Salut!
+# CV Roméo Provenzano
 
 Voici mon CV réalisé en HTML, CSS par mes soins.
 
