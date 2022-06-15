@@ -6,8 +6,6 @@ Pour lire mon CV, rien de plus simple :
 Téléchargez l'archive ZIP de ce repo et ouvrez les pages HTML et CSS avec votre éditeur de texte pour les analyser,
 Puis ouvrez la page HTML avec votre navigateur préféré.
 
-Cliquez sur le lien pour lire le CV :
-
-https://romeoprov.github.io/CV-Romeo/
+[Cliquez sur le lien pour lire le CV](https://romeoprov.github.io/CV-Romeo/)
 
 Boone lecture !
